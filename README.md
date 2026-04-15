@@ -1,6 +1,6 @@
 # Imperfect Piano Performances
 
-A collection of piano performance data (WAV & MIDI) capturing the raw, unpolished journey of learning classical music.
+A collection of piano performance data (mp3 & MIDI) capturing the raw, unpolished journey of learning classical music.
 
 ## Overview
 This repository archives my piano practice sessions. Unlike typical performance libraries, this collection focuses on the **process of improvement**. You will find multiple recordings of the same piece, ranging from the very first struggling attempt to a more polished version.
@@ -16,13 +16,11 @@ This dataset is intentionally "imperfect" and may be useful for:
 ## Tracks & Progress
 Each folder in the `data/` directory represents a specific piece.
 
-### 🎹 Chopin: Nocturne Op.9 No.2
-| Date / Status | Preview (WAV) | Data (MIDI) |
+### 🎹 01 Chopin: Walts No19 Aminor Op posth
+| Date / Status | Preview (mp3) | Data (MIDI) |
 | :--- | :--- | :--- |
-| 2026-04-15 (Initial) | <audio src="data/chopin-nocturne-op9-no2/2026-04-15_take1.wav"> | [Download](./data/chopin-nocturne-op9-no2/2026-04-15_take1.mid) |
-| 2026-05-01 (Intermediate) | <audio src="data/chopin-nocturne-op9-no2/2026-05-01_take2.wav"> | [Download](./data/chopin-nocturne-op9-no2/2026-05-01_take2.mid) |
-
-*(Add more tracks following the same format)*
+| 01 | <audio src="01_Chopin_Waltz-No19-Aminor-Op-posth/01_01.mp3"> | [Download](./01_Chopin_Waltz-No19-Aminor-Op-posth/01_01.mid) |
+| 02 | <audio src="01_Chopin_Waltz-No19-Aminor-Op-posth/01_02.mp3"> | [Download](./01_Chopin_Waltz-No19-Aminor-Op-posth/01_02.mid) |
 
 ## Data Specifications
 - **Instrument**: Roland DP603 (Digital Piano)
