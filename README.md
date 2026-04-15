@@ -13,22 +13,13 @@ This dataset is intentionally "imperfect" and may be useful for:
 - **Machine Learning**: A unique source for training models on human learning patterns, error detection, or style transition.
 - **Musical Analysis**: Analyzing how fingering, dynamics, and temporal expression evolve as a player gains proficiency.
 
-## Tracks & Progress
-Each folder in the `data/` directory represents a specific piece.
-
-### 🎹 01 Chopin: Walts No19 Aminor Op posth
-| Date / Status | Preview (mp3) | Data (MIDI) |
-| :--- | :--- | :--- |
-| 01 | <audio controls src="01_Chopin_Waltz-No19-Aminor-Op-posth/01_01.mp3"></audio> | [Download](./01_Chopin_Waltz-No19-Aminor-Op-posth/01_01.mid) |
-| 02 | <audio src="01_Chopin_Waltz-No19-Aminor-Op-posth/01_02.mp3"></audio> | [Download](./01_Chopin_Waltz-No19-Aminor-Op-posth/01_02.mid) |
-
-01_Chopin_Waltz-No19-Aminor-Op-posth/01_01.mp3
 
 ## Data Specifications
 - **Instrument**: Roland DP603 (Digital Piano)
 - **Formats**: 
-  - `WAV`: High-quality audio captured directly from the output.
-  - `MIDI`: Precise event data including note velocity and pedal movements.
+  - `mp3`: For quick previewing and listening.
+  - `MIDI`: Precise event data for performance analysis.
+- **Progress Tracking**: Tracks are named with sequential numbers (01, 02...). **The lower the number, the earlier the stage of practice.**
 
 ## License
 This repository is dedicated to the public domain under the **CC0 1.0 Universal** license.
